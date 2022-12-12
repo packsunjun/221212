@@ -29,6 +29,6 @@
 >
 > **주요 기능:** bootstrip을 이용한 학과소개 홈페이지
 >
-> **사용 기술:** bootstrip / css / js
+> **사용 기술:** bootstrip / css / js / html
 >
 > **문의:** le51313@naver.com
